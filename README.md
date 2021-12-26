@@ -1,2 +1,2 @@
 # nodeExpressWebAPI
-About basic webapi using nojs&amp;express 
+About basic webapi using nodjs&amp;express 
